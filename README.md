@@ -1,1 +1,1 @@
-# my-first-repo
+Skills: Git, LaTeX
